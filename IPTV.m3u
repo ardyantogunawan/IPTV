@@ -107,6 +107,18 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
+#EXTINF:-1 tvg-id="TVRISport.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/tvrisport.png?raw=true",TVRI Sport
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+#EXTINF:-1 tvg-id="TVRIWorld.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/tvriworld.png?raw=true",TVRI World
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+
 #EXTINF:-1 tvg-id="DAAITV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/daaitv.png?raw=true",DAAI TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -124,3 +136,55 @@ http://op-group1-swiftservehd-1.dens.tv/h/h212/index.m3u8
 #EXTINF:-1 tvg-id="Thrill.hk" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/thrill.png?raw=true",Thrill
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 http://op-group1-swiftservehd-1.dens.tv/h/h240/index.m3u8
+
+#EXTINF:-1 tvg-id="tvNAsia.hk" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/tvn.png?raw=true",tvN Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+http://op-group1-swiftservehd-1.dens.tv/h/h215/index.m3u8
+
+#EXTINF:-1 tvg-id="tvNMoviesAsia.hk" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/tvnmovies.png?raw=true",tvN Movies Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+http://op-group1-swiftservehd-1.dens.tv/h/h214/index.m3u8
+
+#EXTINF:-1 tvg-id="CinemaWorld.my" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/cinemaworld.png?raw=true",CinemaWorld
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+http://op-group1-swiftservehd-1.dens.tv/h/h202/index.m3u8
+
+#EXTINF:-1 tvg-id="HITS.sg" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/hits.png?raw=true",HITS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+http://op-group1-swiftservehd-1.dens.tv/h/h205/index.m3u8
+
+#EXTINF:-1 tvg-id="HITSMovies.sg" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/hitsmovies.png?raw=true",HITS Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+http://op-group1-swiftservehd-1.dens.tv/h/h206/index.m3u8
+
+#EXTINF:-1 tvg-id="KIX.hk" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/kix.png?raw=true",KIX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+http://op-group1-swiftservehd-1.dens.tv/h/h220/index.m3u8
+
+#EXTINF:-1 tvg-id="KPlus.sg" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/kplus.png?raw=true",K-Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+http://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8
+
+#EXTINF:-1 tvg-id="MyCinema.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/mycinema.png?raw=true",My Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
+
+#EXTINF:-1 tvg-id="MyCinemaAsia.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/mycinemaasia.png?raw=true",My Cinema Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8
+
+#EXTINF:-1 tvg-id="MyFamily.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/myfamilychannel.png?raw=true",My Family
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8
+
+#EXTINF:-1 tvg-id="MyKidz.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/mykidz.png?raw=true",My Kidz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8
+
+#EXTINF:-1 tvg-id="ROCKAction.sg" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/rockaction.png?raw=true",Rock Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+http://op-group1-swiftservehd-1.dens.tv/h/h218/index.m3u8
+
+#EXTINF:-1 tvg-id="ROCKEntertainment.sg" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/rockentertainment.png?raw=true",Rock Entertaiment
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+http://op-group1-swiftservehd-1.dens.tv/h/h213/index.m3u8
