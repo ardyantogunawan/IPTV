@@ -1,6 +1,9 @@
-For personal use ^^
-
-Credits:
-1. https://github.com/samleong123/mewatchsg
-2. https://github.com/riotryulianto/iptv-playlists
-3. https://github.com/OngisMbois/IPTV-PREMIUM
+<body>
+<h1><b>For Personal Use ^^</b></h1>
+Credits and References:
+<ul>
+<li>https://github.com/samleong123/mewatchsg</li>
+<li>https://github.com/riotryulianto/iptv-playlists</li>
+<li>https://github.com/OngisMbois/IPTV-PREMIUM</li>
+</ul>
+</body>
